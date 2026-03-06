@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Mengubah Warna
+        </title>
+    </head>
+
+    <body>
+        <h1>
+           Atribut Gaya
+        </h1>
+        <p>Atribut gaya digunakan untuk menambahkan gaya pada suatu elemen seperti warna:</p>
+
+        <p style="color: red;"> Ini adalah paragraf berwarna merah.</p>
+        <p style="color: blue;"> Ini adalah paragraf berwarna biru.</p>
+        <p style="color: greenyellow;"> Ini adalah paragraf berwarna hijau.</p>
+        <p style="color: purple"> Ini adalah paragraf berwarna ungu.</p>
+    </body>
+</html>

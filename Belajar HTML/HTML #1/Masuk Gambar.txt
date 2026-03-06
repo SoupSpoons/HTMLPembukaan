@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Memasukkan Gambar 
+        </title>
+    </head>
+
+    <body>
+        <h1>
+           Gambar Game
+        </h1>
+        <img src="Game_roblox.png" alt="Bermain Game Roblox Bersama Teman"width="700" height="400">
+        <p>Di bawah ini jika gambar tidak ada, maka akan tampil teks.</p>
+        <img src="Gama_roblox.png" alt="Bermain Game Roblox Bersama Teman"width="700" height="400">
+    </body>
+</html>

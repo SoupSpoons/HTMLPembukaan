@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Ukuran Judul
+        </title>
+    </head>
+
+    <body>
+        <h1>Ini adalah Heading (Judul) </h1>
+        <h2>Ini adalah Heading (Judul) </h2>
+        <h3>Ini adalah Heading (Judul) </h3>
+        <h4>Ini adalah Heading (Judul) </h4>
+        <h5>Ini adalah Heading (Judul) </h5>
+        <h6>Ini adalah Heading (Judul) </h6>
+    </body>
+</html>
