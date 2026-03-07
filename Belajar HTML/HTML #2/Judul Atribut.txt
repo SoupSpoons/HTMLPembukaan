@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en-ID">
+    <head>
+        <title>
+            Atribut Judul
+        </title>
+    </head>
+
+    <body>
+        <h1 title="Saya adalah sebuah header">
+           Atribut judul 
+        </h1>
+        <p>Judul atribut mendefinisikan beberapa informasi tambahan tentang suatu elemen. <br> Coba arahkan kursor mouse anda ke teks dibawah.</p>
+        <p title="Saya adalah tooltip">Apa yang terlihat pada mouse anda?</p>
+        <p>Maka akan tampil atribut judul sebagai tooltip.</p>
+    </body>
+</html>

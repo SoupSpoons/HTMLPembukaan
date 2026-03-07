@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en-ID">
+    <head>
+        <title>
+            Menyatakan Bahasa
+        </title>
+    </head>
+
+    <body>
+        <h1>
+           Menyatakan bahasa halaman web.
+        </h1>
+        <p>Lang atribut di dalam tag html untuk menyatakan bahasa halaman web yang bertujuan untuk membantu mesin pencari dan browser.</p>
+        <p>Kode negara juga dapat ditambahkan ke kode bahasa dalam lang atribut. Jadi, dua karakter pertama menentukan bahasa halaman HTML dan dua karakter terakhir menentukan negara.</p>
+        <p>Contoh (html lang="en-US") untuk menentukan bahasa Inggris sebagai bahasa dan Amerika serikat sebagai negara. Untuk negara Indonesia kode yang digunakan adalah ID.</p>
+    </body>
+</html>

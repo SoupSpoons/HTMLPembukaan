@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en-ID">
+    <head>
+        <title>
+            Atribut Gambar
+        </title>
+    </head>
+
+    <body>
+        <h1>
+           Membuat atribut gambar
+        </h1>
+        <p>Memasukkan atribut gambar dengan menggunakan gambar pada percobaan sebelumnya.</p>
+        <img src="Game_roblox.png" alt="Gambar Saya Sedang bermain roblox dengan teman" width="700" height="400" title="Sedang bermain roblox dengan teman">
+    </body>
+</html>

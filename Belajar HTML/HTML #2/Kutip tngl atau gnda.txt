@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en-ID">
+    <head>
+        <title>
+            Kutip Tunggal atau Ganda
+        </title>
+    </head>
+
+    <body>
+        <h1>
+           Mengutip Tunggal atau Ganda
+        </h1>
+        <p>Dalam beberapa situasi ketika nilai atribut itu sendiri berisi tanda kutip ganda, perlu menggunakan tanda kutop tunggal </p>
+        <p>Arahkan kursor mouse anda ke paragraf di bawah ini untuk melihat efeknya. </p>
+        <p title='Soup "Spoon" develop'>Soup dengan tanda kutip ganda. </p>
+        <p title="Soup 'Spoon' develop">Soup dengan tanda kutip tunggal. </p>
+    </body>
+</html>

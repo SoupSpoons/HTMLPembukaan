@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en-ID">
+    <head>
+        <title>
+            Ukuran Judul Dengan Atribut Style
+        </title>
+    </head>
+
+    <body>
+        <p>Anda dapat mengubah ukuran judul dengan atribut style, menggunakan properti font-size.</p>
+        <h1>Judul Tanpa Atribut Style</h1>
+        <h1 style="font-size: 60px;">Judul Dengan Atribut Style</h1>
+        <p>Setiap judul HTML memiliki ukuran default. Namun, kita dapat menentukan ukuran setiap judul dengan atribut style, menggunakan properti CSS font-size.</p>
+    </body>
+</html>
