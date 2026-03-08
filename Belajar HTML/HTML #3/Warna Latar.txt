@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en-ID">
+    <head>
+        <title>
+            Warna Latar Belakang    
+        </title>
+    </head>
+
+    <body style="background-color: aquamarine;">
+        <h1 style="background-color: darkcyan;" title="Saya adalah sebuah header">
+           Memasukkan warna pada latar belakang
+        </h1>
+        <p style="background-color: darkolivegreen;">Properti CSS Background-color menentukan warna latar belakang untuk elemen HTML.<br> Warna latar belakang dapat juga di atur untuk dua elemen berbeda.</p>
+        <p style="background-color: darkolivegreen;">Dengan memasukkan sytax style setelah Tag contoh: <b>h1 style="background-color:biru;"</b></p>
+    </body>
+</html>

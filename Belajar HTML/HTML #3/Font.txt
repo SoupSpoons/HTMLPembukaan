@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en-ID">
+    <head>
+        <title>
+            Font   
+        </title>
+    </head>
+
+    <body>
+        <h1 style="font-family: monospace;"title="Saya adalah sebuah header">
+           Mengubah bentuk font
+        </h1>
+        <p style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Properti CSS font-family menentukan font yang akan digunakan untuk elemen HTML</p>
+        <p style="font-family: 'Times New Roman', Times, serif;">Saya font Times New Roman</b></p>
+    </body>
+</html>
