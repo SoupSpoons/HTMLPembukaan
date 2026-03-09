@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en-ID">
+    <head>
+        <title>
+            Elemen Pemformatan HTML
+        </title>
+    </head>
+
+    <body>
+        <h1 style="text-align: center; font-size: 200%;" title="Saya adalah sebuah header">
+           Elemen Pemformatan HTML
+        </h1>
+        <p>Elemen ini menggunakan elemen < b > yang berarti teks <b>tebal</b></p>
+        <p>Elemen ini menggunakan elemen < strong > yang berarti teks <strong>penting</strong></p>
+        <p>Elemen ini menggunakan elemen < i > yang berarti teks <i>miring</i></p>
+        <p>Elemen ini menggunakan elemen < em > yang berarti teks <em>ditekankan</em></p>
+        <p>Elemen ini menggunakan elemen < mark > yang berarti teks <mark>ditandai</mark></p>
+        <p>Elemen ini menggunakan elemen < del > yang berarti <del>dihapus</del> </p>
+        <p>Elemen ini menggunakan elemen < ins > yang berarti teks <ins>disisipkan</ins></p>
+        <p>Elemen ini menggunakan elemen < sub > yang berarti teks <sub>subskrip</sub></p>
+        <p>Elemen ini menggunakan elemen < small > yang berarti teks <small>lebih kecil</small></p>
+        <p>Elemen ini menggunakan elemen < sup > yang berarti teks <sup>superskrip</sup></p>
+        </body>
+</html>
