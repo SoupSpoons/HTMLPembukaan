@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en-ID">
+    <head>
+        <title>
+            Kutip dan Referensi Lanjut
+        </title>
+    </head>
+
+    <body>
+        // Kutip dan Referensi
+        <h1 style="background-color: coral; text-align: center; font-size: 200%;" title="Saya adalah sebuah header">
+           Mengutip dan Mereferensikan HTML
+        </h1>
+        <hr>
+
+        // Mengutip dengan bloackquote
+        <h2 style="background-color: rgb(181, 150, 139); text-align: center; font-size: 100%;" title="Saya adalah sebuah header">
+            Kutipan dari sumber lain 
+        </h2>
+        <p> Dengan menggunakan elemen HTML < bloackquote > tersebut mendefinisikan bagian yang dikutip dari sumber lain. <br> Berikut kutipan dari situs wikipedia tentang kucing.</p>
+        <blockquote style="background-color: beige;" cite="https://id.wikipedia.org/wiki/Kucing">Kucing, disebut juga sebagai kucing domestik[4][5] atau kucing rumah (nama ilmiah: Felis silvestris catus atau Felis catus), adalah sejenis mamalia karnivora dari famili Felidae. Kata "kucing" biasanya merujuk kepada "kucing" yang telah dijinakkan,[6] tetapi bisa juga merujuk kepada "kucing besar" seperti singa dan harimau yang juga termasuk jenis kucing.</blockquote>    
+        
+        //Mengutip dengan q
+        <h2 style="background-color: rgb(181, 150, 139); text-align: center; font-size: 100%;" title="Saya adalah sebuah header">
+            Kutipan singkat
+        </h2>
+        <p> Dengan menggunakan tag HTML < q > tersebut mendefinisikan kutipan singkat. <br> Berikut kutipan dari situs wikipedia tentang anjing.</p>
+        <p style="background-color: beige;">Anjing adalah: <q>keturunan serigala yang telah didomestikasi.</q></p>
+        
+        //Mereferensikan dengan abbr
+        <h2 style="background-color: rgb(181, 150, 139); text-align: center; font-size: 100%;" title="Saya adalah sebuah header">
+            HTML abbr untuk Singkatan
+        </h2>
+        <p> Dengan menggunakan tag HTML < abbr > tersebut mendefinisikan singkatan.</p>
+        <p style="background-color: beige;"> Persatuan Guru Republik Indonesia (<abbr title="PGRI">PGRI</abbr>) adalah organisasi di Indonesia yang anggotanya berprofesi sebagai guru.</p>
+        
+        //Mereferensikan dengan address
+        <h2 style="background-color: rgb(181, 150, 139); text-align: center; font-size: 100%;" title="Saya adalah sebuah header">
+            HTML address untuk Informasi Kontak
+        </h2>
+        <p> Dengan menggunakan tag HTML < address > tersebut mendefinisikan informasi kontak untuk penulis/pemilik dokumen atau artikel.<br> Berikut kutipan dari situs data.ikan.org tentang data perikanan.</p>
+        <address style="background-color: beige;"> 
+            Dibuat oleh data-ikan.org.<br>
+            Kunjungi kami di : <br>
+            www.data-ikan.org <br>
+            Bogor Tengah - Bogor Jawa Barat 16128 <br>
+            Indonesia <br>
+        </address>
+        
+        //Mereferensikan dengan cite
+        <h2 style="background-color: rgb(181, 150, 139); text-align: center; font-size: 100%;" title="Saya adalah sebuah header">
+            HTML cite untuk Judul Karya
+        </h2>
+        <p> Dengan menggunakan tag HTML < cite > tersebut mendefinisikan judul sebuah karya kreatif.</p>
+        <img src="lukisan Affandi-ibuku.jpg" width="20%" height="20%" alt="Ibuku">
+        <p style="background-color: beige;"> <cite>Ibuku</cite> karya Affandi. Dilukis pada tahun 1941.</p>
+
+        //HTML untuk pengganti dua arah dengan bdo
+        <h2 style="background-color: rgb(181, 150, 139); text-align: center; font-size: 100%;" title="Saya adalah sebuah header">
+            HTML bdo untuk Pengganti dua Arah
+        </h2>
+        <p> Dengan menggunakan tag HTML < bdo > digunakan untuk mengganti arah teks saat ini. BDO adakah singkatan dari Bi-Directional Override.</p>
+        <bdo dir="rtl"> Baris ini akan ditulis dari kanan ke kiri</bdo>
+        
+    </body>
+</html>
