@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en-ID">
+    <head>
+        <title>
+            CSS Inline
+        </title>
+    </head>
+
+    <body>
+        <h1 style="border: 2px solid rgb(255, 255, 189); text-align: center; font-size: 200%; background-color: rgb(108, 215, 215);" title="Saya adalah sebuah header">
+           CSS inline
+        </h1>
+        <p> CSS inline digunakan untuk menerapkan gaya unik pada satu elemen HTML.<br>
+        CSS inline menggunakan style atribut dari elemen HTML.
+        </p>
+        <h1 style="color: rgb(0, 168, 168);">Ini judul</h1>
+        <p style="color: rgb(255, 137, 137);"> Ini paragraf</p>
+        
+    </body>
+</html>

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en-ID">
+    <head>
+        <link rel="stylesheet" href="style.css">
+        <title>
+            CSS Eksternal
+        </title>
+    </head>
+
+    <body>
+        <h1 title="Saya adalah sebuah header">
+           CSS Eksternal
+        </h1>
+        <p> Lembar gaya eksternal digunakan untuk mendefinisikan gaya untuk banyak halaman HTML.<br>
+        Untuk menggunakan stylesheet eksternal, tambahkan tautan ke stylesheet tersebut di < head > bagian head setiap halaman HTML.
+        </p>
+
+    </body>
+</html>

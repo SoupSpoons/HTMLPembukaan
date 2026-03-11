@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en-ID">
+    <head>
+        <title>
+            Nilai Warna
+        </title>
+    </head>
+
+    <body>
+        <h1 style="border: 2px solid rgb(255, 255, 189); text-align: center; font-size: 200%; background-color: rgb(108, 215, 215);" title="Saya adalah sebuah header">
+           Nilai Pada Warna
+        </h1>
+        <p> Dalam HTML, warna juga dapat ditentukan menggunakan nilai RGB, nilai HEX, nilai HSL, nilai RGBA, dan nilai HSLA. <br>
+        Ketiga elemen < div > berikut memiliki warna latar belakang yang di atur dengan nilai RGB, HEX, dan HSL:
+        </p>
+        <h1 style="background-color: rgb(78, 78, 186);"> rgb(78, 78, 186) </h1>
+        <h1 style="background-color: #4e4eba;"> #4e4eb </h1>
+        <h1 style="background-color: hsl(240, 44%, 52%);"> hsl(240, 44%, 52%) </h1>
+        
+    </body>
+</html>
