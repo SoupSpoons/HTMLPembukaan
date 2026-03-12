@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en-ID">
+    <head>
+        <title>
+            Tautan HTML 
+        </title>
+    </head>
+
+    <body>
+        <h1 title="Saya adalah sebuah header">
+           Tautan HTML
+        </h1>
+        <p> Tag HTML < a > mendefinisikan sebuah hyperlink.<br>
+            Atribut terpenting dari < a > elemen tersebut adalah href atribut yang menunjukkan tujuan tautan.<br>
+            Teks tautan adalah bagian yang akan terlihat oleh pembaca <br>
+            Mengklik teks tautan akan mengarahkan pembaca ke alamat url yang ditentukan.
+        </p>
+        <p> <a href="https://www.w3schools.com/">Visit W3Schools.com!</a></p>
+
+    </body>
+</html>

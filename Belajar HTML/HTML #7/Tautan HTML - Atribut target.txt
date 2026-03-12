@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en-ID">
+    <head>
+        <title>
+            Tautan HTML - Atribut Target
+        </title>
+    </head>
+
+    <body>
+        <h1 title="Saya adalah sebuah header">
+           Tautan HTML - Atribut Target
+        </h1>
+        <p> Secara default, halaman yang ditautkan akan ditampilkan di jendela browser saat ini. Untuk mengubah ini, Anda harus menentukan target lain untuk tautan tersebut.<br>
+            Atribut tersebut <b style="color: brown;">target</b> menentukan di mana dokumen yang ditautkan akan dibuka.<br>
+            Atribut tersebut <b style="color: brown;">target</b> dapat memiliki salah satu nilai berikut:<br>
+            <ul> 
+            <li>
+                <b style="color: brown;">_self</b> - Default. Membuka dokumen di jendela/tab yang saya seperti saat diklik</li>
+                <b style="color: brown;">_blank</b> - Membuka dokumen di jendela atau tab baru</li>
+                <b style="color: brown;">_parent</b> - Membuka dokumen di dalam frame induk</li>
+                <b style="color: brown;">_top</b> - Membuka dokumen dalam tampilan penuh jendela</li>
+            </ul>
+        </p>
+        <p> <a href="https://www.w3schools.com/" target="_self">self</a></p>
+        <p> <a href="https://www.w3schools.com/" target="_blank">blank</a></p>
+        <p> <a href="https://www.w3schools.com/" target="_parent">parent</a></p>
+        <p> <a href="https://www.w3schools.com/" target="_top">top</a></p>
+
+    </body>
+</html>
