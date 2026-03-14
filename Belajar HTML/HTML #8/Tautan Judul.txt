@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en-ID">
+    <head>
+        <title>
+            Judul Tautan
+        </title>
+    </head>
+
+    <body>
+        <h1 style="background-color: aquamarine; border-color: azure; text-align: center; size: 100%;">
+           Judul Tautan
+        </h1><hr>
+        <p>Atribut ini <b>title</b> menentukan informasi tambahan tentang suatu elemen. Informasi ini paling seing ditampilkan sebagai teks tool tip ketika kursor mouse diarahkan ke elemen tersebut.<br>
+        </p>
+
+        <a href="https://www.w3schools.com/html/html_links.asp" title="Kunjungi HTML W3Schools">Tempat gw belajar HTML</a><br>
+        <button onclick="document.location = 'Alamat Email.html'" style="padding: 20px;" title="Pergi ke HTML Email"> Meluncur</button>
+    </body>
+</html>

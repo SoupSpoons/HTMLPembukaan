@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en-ID">
+    <head>
+        <title>
+            Tombol sebagai Tautan
+        </title>
+    </head>
+
+    <body>
+        <h1 style="background-color: aquamarine; border-color: azure; text-align: center; size: 100%;">
+           Tombol Sebagai Tautan
+        </h1>
+        <p>Untuk menggunakan tombol HTML sebagai tautan, anda harus menambahkan beberapa kode JavaScript.<br>
+            JavaScript memungkinkan Anda untuk menentukan apa yang terjadi pada pristiwa tertentu, seperti mengklik tombol:
+        </p>
+
+        <p style="padding: 20px;">Klik tombol untuk menuju ke tutorial HTML Alamat Email</p>
+        <button onclick="document.location = 'Alamat Email.html'" style="padding: 20px;"> Meluncur</button>
+    </body>
+</html>

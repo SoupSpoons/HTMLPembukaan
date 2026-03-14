@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en-ID">
+    <head>
+        <title>
+            Tautan ke Alamat Email
+        </title>
+    </head>
+
+    <body>
+        <h1 style="background-color: aquamarine; border-color: azure; text-align: center;">
+           Tautan ke Alamat Email
+        </h1>
+        <p>Gunakan <b style="color: brown;">mailto:</b> di dalam <b style="color: brown;">href</b> atribut untuk membuat tautan yang membuka program email pengguna (agar mereka dapat mengirim email baru):<br>
+        </p>
+
+        <p><a href="mailto:bray.azriel@gmail.com">Kirim Email</a></p>
+    </body>
+</html>

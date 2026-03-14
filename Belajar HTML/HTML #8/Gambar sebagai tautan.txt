@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en-ID">
+    <head>
+        <title>
+            Gambar Sebagai Tautan
+        </title>
+    </head>
+
+    <body>
+        <h1 style="background-color: aquamarine; border-color: azure;">
+           Gambar Sebagai Tautan
+        </h1>
+        <p>Untuk menggunakan gambar sebagai tautan, cukup letakkan < img > tag di dalam < a > tag. <br>
+        Tekan lah gambar di bawah untuk menuju halaman HTML gambar:
+        </p>
+        <a href="Atribut gambar.html"><img src="Game_roblox.png" alt="Gambar Saya Sedang bermain roblox dengan teman" width="700" height="400" title="Sedang bermain roblox dengan teman"></a>
+    </body>
+</html>
