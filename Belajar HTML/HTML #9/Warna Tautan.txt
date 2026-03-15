@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en-ID">
+    <head>
+        <link rel="stylesheet" href="style.css">
+        <title>
+            Warna Tautan 
+        </title>
+    </head>
+
+    <body>
+        <h1 title="Saya adalah sebuah header">
+           Warna Tautan
+        </h1>
+        <p> Di sini, tautan yang belum dikunjungi akan berwarna hijau tanpa garis bawah. Tautan yang sudah dikunjungi akan berwarna merah muda tanpa garis bawah. Tautan aktif akan berwarna kuning dan bergaris bawah. Selain itu, saat mengarahkan kursor ke tautan (a:hover), tautan tersebut akan berubah menjadi merah dan bergaris bawah:<br>
+        </p>
+        <h1 style="color: crimson;">URL Absolut</h1>
+        <p> <a href="https://www.w3schools.com/" target="_blank">Visit W3Schools.com!</a></p>
+        <p> <a href="https://youtu.be/EuzDbYXIAXI?si=e-en8XiUIM8FPgL_" target="_blank">One of my favorite song by - JVKE</a></p>
+
+        <h1 style="color: crimson;">URL Relatif</h1>
+        <p> <a href="Atribut gambar.html" target="_blank">HTML Gambar</a></p>
+
+    </body>
+</html>

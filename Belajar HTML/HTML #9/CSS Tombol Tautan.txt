@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en-ID">
+    <head>
+        <link rel="stylesheet" href="styleTombol.css">
+        <title>
+            Warna Tombol Tautan
+        </title>
+    </head>
+
+    <body>
+        <h1 style="background-color: aquamarine; border-color: azure; text-align: center; size: 100%;">
+           Warna Tombol Tautan
+        </h1>
+        <hr>
+        <p>Tautan yang ditata seperti tombol:<br>
+        </p>
+
+        <p style="padding: 20px;">Klik tombol untuk menuju ke tutorial HTML Alamat Email</p>
+        <button onclick="document.location = 'Alamat Email.html'" style="padding: 20px;"> Meluncur</button>
+    </body>
+</html>
