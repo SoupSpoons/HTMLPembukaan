@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en-ID">
+    <head>
+        <title>
+            Gambar Animasidi Server Lain   
+        </title>
+    </head>
+
+    <body>
+        <h1 style="background-color: chartreuse; text-align: center;">
+           Gambar Animasi di Server Lain
+        </h1>
+        <hr>
+        <img src="https://media.tenor.com/r1ljHYhLeokAAAAM/kucing.gif" alt="https://media.tenor.com/r1ljHYhLeokAAAAM/kucing.gif" width="700" height="400" title="Kucing sedang menggoyangkan kepala">
+    </body>
+</html>
