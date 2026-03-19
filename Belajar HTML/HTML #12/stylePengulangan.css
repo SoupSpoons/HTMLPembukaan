@@ -1,0 +1,14 @@
+body{
+    background-image: url('kucing\ lucu.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /*
+Jika ingin gambar latar belakang merenggang agar sesuai dengan suluruh elemen, Anda dapat mengatur backgorund size properti tersebut dari cover menjadi 100% 100%
+   */
+    background-size: 100% 100%;
+   
+}
+p{
+    background-color: aquamarine;
+    font-size: 200%;
+}

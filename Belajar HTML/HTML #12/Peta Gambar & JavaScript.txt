@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en-ID">
+    <head>
+        <title>
+            Peta Gambar & JavaScript
+        </title>
+    </head>
+
+    <body>
+        <h1 style="background-color: chartreuse; text-align: center;">
+           Peta Gambar & JavaScript
+        </h1>
+        <hr>
+        <img src="jenis-jenis kucing.jpg" alt="Beberapa jenis kucing" usemap="#workmap" width="400" height="250" title="Jenis-jenis kucing">
+        <map name="workmap">
+            <area shape="rect" coords="16, 26, 122, 136" alt="American Shorthair" href="https://en.wikipedia.org/wiki/American_Shorthair" onclick="tampilPesan(' American Shorthair')">
+            <area shape="rect" coords="138, 16, 260, 115" alt="Kecubung" href="https://id.wikipedia.org/wiki/Kucing_raas" onclick="tampilPesan(' Kecubung')">
+            <area shape="rect" coords="275, 12, 378, 121" alt="Busok" href="https://id.wikipedia.org/wiki/Kucing_raas" onclick="tampilPesan(' Busok')">
+            <area shape="rect" coords="19, 145, 110, 235" alt="Siam" href="https://id.wikipedia.org/wiki/Kucing_siam" onclick="tampilPesan(' Siam')">
+            <area shape="rect" coords="137, 144, 237, 217" alt="Abisinia" href="https://id.wikipedia.org/wiki/Kucing_abisinia" onclick="tampilPesan(' Abisinia')">
+            <area shape="rect" coords="257, 139, 364, 220" alt="Manx" href="https://en.wikipedia.org/wiki/Manx_cat" onclick="tampilPesan(' Manx')">    
+        </map>
+        <script>
+            function tampilPesan(namaKucing) {
+                alert("Anda mengklik"+ namaKucing + "!");
+            }
+        </script>
+    </body>
+</html>

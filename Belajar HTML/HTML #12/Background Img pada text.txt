@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en-ID">
+    <head>
+        <link rel="stylesheet" href="style.css">
+        <title>
+            Gambar Latar Belakang di Teks
+        </title>
+    </head>
+
+    <body>
+        <h1 style="background-color: chartreuse; text-align: center;">
+           Gambar Latar Belakang di Teks
+        </h1>
+        <hr>
+        <p>
+            Anda dapat menentukan gambar latar belakang<br>
+            untuk setiap elemen HTML yang terlihat.<br>
+            Dalam contoh ini, gambar latar belakang<br>
+            ditentukan untuk lemen div . <br>
+            Secara default, gambar latar belakang<br>
+            akan terulang kembali ke arah yang ditentukan<br>
+            di mana ukurannya lebih kecil dari elemen tersebut<br>
+            di mana hal itu ditentukan. Cobalah mengubah ukuran<br>
+            jendela browser untuk melihat bagaimana<br>
+            gambar latar belakang berperilaku.
+        </p>
+    </body>
+</html>
