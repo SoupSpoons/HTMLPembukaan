@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en-ID">
+    <head>
+        <title>
+            UIIAUIIIAI
+        </title>
+        <link rel="icon" type="img/x-ico" href="favicon.ico">
+    </head>
+
+    <body>
+        <h1 style="background-color: chartreuse; text-align: center;">
+           Favicon HTML
+        </h1>
+        <hr>
+
+        <p> Coba lihat gambar kecil yang ditampilkan di samping judul halaman pada tab browser.
+        </p>
+        <img src="screenshot.png" style="width: auto; height: auto;">
+    </body>
+</html>
