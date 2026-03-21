@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en-ID">
+    <head>
+        <style>
+            table, th, td{
+                border: 2px solid rgb(174, 48, 48);
+                background-color: rgba(177, 255, 255, 0.216);
+                border-collapse: collapse;
+            }
+        </style>
+        <title>
+            Ukuran Tabel HTML
+        </title>
+        <link rel="icon" type="img/x-ico" href="favicon.ico">
+    </head>
+
+    <body>
+        <h1 style="background-color: chartreuse; text-align: center;">
+           Ukuran Tabel HTML
+        </h1>
+        <hr>
+        <p>
+            Untuk mengubah ukuran pada tabel tertentu, tinggal menambahkan style (height dan width) atribut pada elemen baru tabel.
+        </p>
+        <table style="width: 100%;">
+            <tr style="height: 30px;">
+                <th style="width: 20%; background-color: rgba(0, 0, 63, 0.355);">Perusahaan</th>
+                <th style="background-color: rgba(0, 0, 63, 0.355);">Kontak</th>
+                <th style="background-color: rgba(0, 0, 63, 0.355);">Negara</th>
+            </tr>
+            <tr>
+                <td style="text-align: center;">IndoMart</td>
+                <td>Sinarman Jonatan</td>
+                <td style="text-align: center;">Indonesia</td>
+            </tr>
+            <tr>
+                <td style="text-align: center;">AlfaMart</td>
+                <td>Anggara Hans Prawira</td>
+                <td style="text-align: center;">Indonesia</td>
+            </tr>
+        </table>
+    </body>
+</html>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en-ID">
+    <head>
+        <link rel="stylesheet" href="style.css">
+        <title>
+            Tabel HTML
+        </title>
+        <link rel="icon" type="img/x-ico" href="favicon.ico">
+    </head>
+
+    <body>
+        <h1 style="background-color: chartreuse; text-align: center;">
+           Tabel HTML
+        </h1>
+        <hr>
+
+        <table style="width: 100%;">
+            <tr>
+                <th>Perusahaan</th>
+                <th>Kontak</th>
+                <th>Negara</th>
+            </tr>
+            <tr>
+                <td>IndoMart</td>
+                <td>Sinarman Jonatan</td>
+                <td>Indonesia</td>
+            </tr>
+            <tr>
+                <td>AlfaMart</td>
+                <td>Anggara Hans Prawira</td>
+                <td>Indonesia</td>
+            </tr>
+        </table>
+    </body>
+</html>
